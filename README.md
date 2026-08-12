@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0049-group-anagrams) |
+| [0162-find-peak-element](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -97,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
