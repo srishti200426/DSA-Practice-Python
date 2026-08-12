@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0049-group-anagrams) |
+| [0704-binary-search](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
