@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0680-valid-palindrome-ii) |
+| [0981-time-based-key-value-store](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srishti200426/DSA-Practice-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -110,8 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0704-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0981-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
