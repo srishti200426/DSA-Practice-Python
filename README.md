@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/srishti200426/DSA-Practice-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/srishti200426/DSA-Practice-Python/tree/master/0981-time-based-key-value-store) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/srishti200426/DSA-Practice-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
